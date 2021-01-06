@@ -1,0 +1,27 @@
+#iconbar{
+  display: none;
+}
+#emailbar{
+  display: none;
+}
+body{
+  padding: 0px;
+  font-size: 4vw;
+
+}
+.topnav{
+  display: none;
+}
+#introduction{
+padding: 50px 0px ;
+
+}
+#about {
+padding: 100px 0px;
+}
+#projects{
+padding: 50px 0px;
+}
+#contact{
+padding: 50px 0px;
+}
